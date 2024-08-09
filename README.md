@@ -30,7 +30,7 @@ Users should be able to:
 ### Screenshot
 
 ![](screenshot.png)
-
+<img src="screenshot.png" />
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
