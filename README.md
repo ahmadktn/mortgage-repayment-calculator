@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./src/assets/images/screenshot.png)
+![](./public/screenshot.png)
 
 ### Links
 
@@ -41,7 +41,6 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - Mobile-first workflow
 - [Vue js](https://vuejs.org/) - JS library
