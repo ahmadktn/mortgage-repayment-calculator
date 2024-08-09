@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://mortgage-repayment-calculator-zeta.vercel.app/](https://mortgage-repayment-calculator-zeta.vercel.app/)
 
 ## My process
 
@@ -44,7 +44,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- [Vue js](https://reactjs.org/) - JS library
+- [Vue js](https://vuejs.org/) - JS library
 
 ### What I learned
 
@@ -65,8 +65,8 @@ I will pay extra attention to emits and slots. Also, I will learn and understand
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Vue js official documentation](https://vuejs.org/guide)
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ahmadktn](https://www.frontendmentor.io/profile/ahmadktn)
