@@ -1,0 +1,62 @@
+/* @import './base.css'; */
+@font-face{
+  font-family: Plus-bold;
+  src: url(./fonts/static/PlusJakartaSans-Bold.ttf);
+  font-weight: 700;
+}
+@font-face {
+  font-family: Plus-medium;
+  src: url(./fonts/static/PlusJakartaSans-Medium.ttf);
+  font-weight: 500;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: Plus-medium;
+  font-size: 16px;
+  background-color: hsl(202, 86%, 94%);
+  max-width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.container{
+  padding: 2rem;
+}
+.app-container{
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (width >= 800px){
+  body{
+    max-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: center;
+    justify-content: center;
+  }
+  .container{
+    height: auto;
+  }
+  .app-container{
+    width: 50rem;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: -1px 2px 30px hsl(203, 41%, 72%);
+  }
+}
+
+@media (width >= 1440px){
+  .app-container{
+    width: 60rem;
+  }
+}
